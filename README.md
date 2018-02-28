@@ -1,0 +1,2 @@
+# lexicon
+Repository i utbildningssyfte
